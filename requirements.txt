@@ -175,7 +175,6 @@ PyJWT==2.4.0
 pylint==2.14.5
 pyls-spyder==0.4.0
 PyNaCl==1.5.0
-pyodbc==4.0.34
 pyOpenSSL==22.0.0
 pyparsing==3.0.9
 pyrsistent==0.18.0
@@ -216,9 +215,6 @@ snowballstemmer==2.2.0
 sortedcollections==2.1.0
 sortedcontainers==2.4.0
 soupsieve==2.3.1
-Sphinx==5.0.2
-spyder==5.2.2
-spyder-kernels==2.2.1
 SQLAlchemy==1.4.39
 statsmodels==0.13.2
 sympy==1.10.1
@@ -246,7 +242,6 @@ twisted-iocpsupport==1.0.2
 typing_extensions==4.3.0
 ujson==5.4.0
 Unidecode==1.2.0
-urllib3==1.26.11
 w3lib==1.21.0
 watchdog==2.1.6
 wcwidth==0.2.5
